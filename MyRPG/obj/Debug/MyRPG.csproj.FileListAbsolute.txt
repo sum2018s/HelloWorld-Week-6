@@ -1,0 +1,7 @@
+C:\Users\B217\Desktop\MyRPG\obj\Debug\MyRPG.csproj.AssemblyReference.cache
+C:\Users\B217\Desktop\MyRPG\obj\Debug\MyRPG.csproj.CoreCompileInputs.cache
+C:\Users\B217\Desktop\MyRPG\bin\Debug\MyRPG.exe.config
+C:\Users\B217\Desktop\MyRPG\bin\Debug\MyRPG.exe
+C:\Users\B217\Desktop\MyRPG\bin\Debug\MyRPG.pdb
+C:\Users\B217\Desktop\MyRPG\obj\Debug\MyRPG.exe
+C:\Users\B217\Desktop\MyRPG\obj\Debug\MyRPG.pdb

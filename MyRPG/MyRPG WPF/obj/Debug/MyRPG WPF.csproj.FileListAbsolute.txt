@@ -1,0 +1,15 @@
+C:\Users\B217\Desktop\MyRPG WPF\bin\Debug\MyRPG WPF.exe.config
+C:\Users\B217\Desktop\MyRPG WPF\bin\Debug\MyRPG WPF.exe
+C:\Users\B217\Desktop\MyRPG WPF\bin\Debug\MyRPG WPF.pdb
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.csproj.AssemblyReference.cache
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MainWindow.g.cs
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\App.g.cs
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF_MarkupCompile.cache
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF_MarkupCompile.lref
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MainWindow.baml
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.g.resources
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG_WPF.Properties.Resources.resources
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.csproj.GenerateResource.cache
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.csproj.CoreCompileInputs.cache
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.exe
+C:\Users\B217\Desktop\MyRPG WPF\obj\Debug\MyRPG WPF.pdb
