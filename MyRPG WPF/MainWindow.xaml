@@ -1,0 +1,16 @@
+﻿<Window x:Class="MyRPG_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyRPG_WPF"
+        mc:Ignorable="d"
+        Title="MyRPG" Height="450" Width="800">
+    <Grid >
+        <Button Margin="0,354,0,0" RenderTransformOrigin="0.487,0.564">
+            <Button x:Name="btnpress" Content="PRESS" RenderTransformOrigin="0.598,0.444" Click="btnpress_Click" Width="43" Height="47" Background="#FF0CFF26"/>
+        </Button>
+
+    </Grid>
+</Window>
+      
